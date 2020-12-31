@@ -1,0 +1,2 @@
+# vue2wepy_webpackConfig
+用webpack写的转换脚本，px2rem,rem2px,然后正则转换vue代码到wepy代码
